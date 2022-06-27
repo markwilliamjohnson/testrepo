@@ -1,0 +1,35 @@
+category,Name,URL,description
+0,Anaconda,https://anaconda.com,
+0,Microsoft Code,https://code.visualstudio.com/,
+0,nodejs,http://nodejs.org,
+0,Cocalc,https://cocalc.com/,
+0,Docker,https://docker.com,
+1,Reimagining Decision,https://docs.qq.com/doc/DYmJ4YWVMY0lQZFd2,"How do data, organisation and decision inter-relate? How can we make better decisions?<p>There are tools here for collective decision making, decision analysis, etc."
+1,Pol.is,https://pol.is/home,A tool for collaborative decision making
+1,WikiData Query,https://query.wikidata.org/,Wikidata
+1,kaggle,http://kaggle.com,Kaggle is a platform for data analysis and Machine learning
+1,DBPedia Endpoint,https://dbpedia.org/sparql,
+2,Reimaging Relationships,https://docs.qq.com/doc/DYmJTTGdsVWZWSmtr,Social media is changing the way we communicate. <p> How can we make social media more intelligent?
+2,Gephi,https://gephi.org/,Gephi for data visualisation
+2,Neo4j,https://neo4j.com/download/,
+3,Reimagining Art and Media,https://docs.qq.com/doc/DYmFUVHB2U2RJSmla?&u=19ad2a87322b4f568787065783272f40,
+3,??,https://dnlod.com/jianying-desktop-app-download/,
+3,Disco Diffusion,https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb,
+3,Wombo,http://wombo.art,
+3,Shotcut,https://shotcut.org/,
+3,Houdini,https://www.sidefx.com/,
+3,EbSynth,https://ebsynth.com/,
+3,Deep Face Lab,https://github.com/iperov/DeepFaceLab,
+3,Magenta,https://magenta.tensorflow.org/demos,
+3,Scamp,http://scamp.marcevanstein.com/,
+3,Jupyter books,https://jupyterbook.org/en/stable/intro.html,
+3,Hugo,https://gohugo.io/,
+4,Reimagining Organisation,https://docs.qq.com/doc/DYmlNWlBmQlV6dmhi,
+4,loopy,https://ncase.me/loopy/,
+4,Netlogo,https://ccl.northwestern.edu/netlogo/,
+4,IPFS,https://ipfs.io/,
+4,Holochain,https://www.holochain.org/,
+4,Blockchain and distributed web,https://www.ideou.com/blogs/inspiration/blockchain-and-distributed-web-why-you-should-care,
+4,Solid,https://inrupt.com/solid/,
+4,electron js,https://www.electronjs.org/,
+4,Capacitor for Mobile,https://capacitorjs.com/,
